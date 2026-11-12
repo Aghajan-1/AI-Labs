@@ -4,8 +4,10 @@
 **Program:** BS Computer Science – 4th Semester  
 **Institution:** University of Balochistan, Quetta  
 **Student:** Syed Shair Ahmed Agha
+**Roll No:** BSCS– 50  
 
-This repository contains six practical assignments prepared according to the BSCS 4th Semester Artificial Intelligence course breakup.
+
+This repository contains six practical assignments prepared according to the BSCS 4th Semester Artificial Intelligence course.
 
 ## Lab Index
 
@@ -15,8 +17,6 @@ This repository contains six practical assignments prepared according to the BSC
 | 2 | Breadth-First Search and Depth-First Search | [Lab2.md](Lab2.md) |
 | 3 | A* Search for the 8-Puzzle | [Lab3.md](Lab3.md) |
 | 4 | Hill Climbing for N-Queens | [Lab4.md](Lab4.md) |
-| 5 | Minimax and Alpha-Beta Pruning | [Lab5.md](Lab5.md) |
-| 6 | ELIZA Chatbot using Regular Expressions | [Lab6.md](Lab6.md) |
 
 ## How to Run
 
@@ -29,7 +29,6 @@ This repository contains six practical assignments prepared according to the BSC
 ## Notes
 
 - Labs 1–4 follow the corresponding practical topics and materials linked in the course repository.
-- Labs 5–6 are developed from the practical requirements in the supplied course breakup because separate official `Lab5.md` and `Lab6.md` files were not linked in the provided instructions.
 - Sample outputs are illustrative; small differences in formatting may occur depending on the Python environment.
 
 ## Course Reference
